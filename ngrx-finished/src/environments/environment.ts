@@ -4,8 +4,9 @@
 
 export const environment = {
   production: false,
-  firebaseAPIKey: 'AIzaSyDb0xTaRAoxyCgvaDF3kk5VYOsTwB_3o7Y'
+  apiKey: 'AIzaSyBOioBm8nHxoaOGcAmrlnZYv3ELqrGAYGA'
 };
+
 
 /*
  * For easier debugging in development mode, you can import the following file
